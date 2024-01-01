@@ -8,6 +8,7 @@ import {
 	Text,
 	TouchableOpacity,
 } from 'react-native';
+
 import { Menu, AlertDialog, Button, Pressable } from 'native-base';
 import {
 	FontAwesome5,
